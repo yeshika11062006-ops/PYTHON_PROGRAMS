@@ -1,15 +1,24 @@
+# Python_Programs
 
-# Python Programs Repository
+This repository contains basic Python programs.
 
-This repository contains my beginner Python programs.
+## Programs
 
-## Programs Included
-1. **hello.py** – Prints "Hello, World!".
-2. **sum.py** – Takes two numbers as input and prints their sum.
+### Day 1 
+- **hello.py** → Prints "Hello, World!"
+- **sum.py** → Adds two numbers entered by the user
 
-## How to Run
+### Day 2 
+- **if_else.py** → Demonstrates if-else statements
+- **multiplication_table.py** → Prints multiplication table for a number
 
-### Using Terminal (Windows)
-```cmd
+## How to run
+
+```bash
+# Day 1
 python hello.py
 python sum.py
+
+# Day 2
+python if_else.py
+python multiplication_table.py
