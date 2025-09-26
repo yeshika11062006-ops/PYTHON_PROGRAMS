@@ -15,6 +15,9 @@ This repository contains basic Python programs.
 ### Day 3 
 - **list_basics.py** → Demonstrates basic list operations: accessing, adding, removing elements, slicing, and length
 
+### Day 4
+- **dictionary_basics.py** → Demonstrates basic dictionary operations: creating, accessing, adding, updating, and iterating through keys and values
+
 ## How to run
 
 ```bash
@@ -28,3 +31,6 @@ python multiplication_table.py
 
 # Day 3
 python list_basics.py
+
+# Day 4
+python dictionary_basics.py
